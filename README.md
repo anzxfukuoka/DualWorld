@@ -15,6 +15,6 @@ Hyper casual mobile game
 
 ### Gameplay video
 
-![Video]()
++ [Link](https://github.com/anzxfukuoka/DualWorld/blob/main/gameplay.mp4)
 
 
